@@ -6,5 +6,5 @@ The test credetials will be sent via email.
 ##
 Installation:
 Click on any apk file and download to your device to install
-###
+### Issues and Feedback
 NB/ All feedback is welcome, if you have any issues kindly create an issue to be followed up promptly.
